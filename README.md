@@ -22,9 +22,8 @@ N/A
 
 ## Installation
 
-1. Download all the files
-2. Unarchive all the files to a one folder
-3. Open index.html file
+1. Clone the project using below git clone url
+2. Open index.html file
 
 ```bash
 git clone https://https://github.com/ashanthilochana/drum-kit-v.0.git
