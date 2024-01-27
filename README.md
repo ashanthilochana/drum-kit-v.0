@@ -27,5 +27,4 @@ N/A
 3. Open index.html file
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://https://github.com/ashanthilochana/drum-kit-v.0.git
